@@ -15,7 +15,7 @@ Three key differences in the weather for June and December:
 -The average daily temperature for June is 4 degrees warmer than the average daily temperature for December. 
 
 !['June Temperature Statistics'](https://github.com/lllohr/surfs_up/blob/7e62b295c1fcc0679135d80b63dc34e138b3a840/resources/june_tobs_statistics.png)
-!['December Temperature Statistics'](https://github.com/lllohr/surfs_up/blob/7e62b295c1fcc0679135d80b63dc34e138b3a840/resources/december_tobs_statistics.png)
+!['December Temperature Statistics'](https://github.com/lllohr/surfs_up/blob/4a2fd7f35d1b770a95fa53e3c06682a3cb7c3e27/resources/december_tobs_statistics.png)
 
 ### Challenges and Difficulties Encountered
 
