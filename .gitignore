@@ -1,3 +1,11 @@
+#Ignore these files
+app.py
+climate
+hawaii.sqlite
+SurfsUp_Challenge_starter_code.ipynb
+climate_analysis.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
